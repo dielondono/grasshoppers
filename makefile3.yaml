@@ -6,6 +6,8 @@
 # by including the "Options" hierarchy at the same level as those
 # samples, libraries, or lanes below. This does not include
 # "Features", which may only be specific globally.
+# ************* CORRESPONDS TO THE MAPPING TO THE NONTARGET.FASTA SEQUENCE WITHOUT FILTERING PCR DUPLICATES ****************
+
 
 Options:
 
