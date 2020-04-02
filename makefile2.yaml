@@ -7,6 +7,9 @@
 # samples, libraries, or lanes below. This does not include
 # "Features", which may only be specific globally.
 
+# ************* CORRESPONDS TO THE MAPPING TO THE TARGET.FASTA SEQUENCE WITHOUT FILTERING PCR DUPLICATES ****************
+
+
 Options:
 
   # Sequencing platform, see SAM/BAM reference for valid values
