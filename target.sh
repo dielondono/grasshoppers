@@ -49,7 +49,7 @@ module load adapterremoval/2.1.7
 module load python
 
 
-
+# This is the path to the makefile, change it depending on the makefile you want to run
 bam_pipeline run --max-threads 1 --temp-root /dss/dsshome1/lxc07/ru87mis2/diego/tmp /dss/dsshome1/lxc07/ru87mis2/diego/makefile3.yaml
 
 
